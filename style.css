@@ -144,10 +144,10 @@ nav > ul {
   }
 }
 
-#features {
+#feature {
   margin-top: 30px;
 }
-#features .icon {
+#feature .icon {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -156,11 +156,11 @@ nav > ul {
   color: darkorange;
 }
 @media (max-width: 550px) {
-  #features .icon {
+  #feature .icon {
     display: none;
   }
 }
-#features .desc {
+#feature .desc {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -169,7 +169,7 @@ nav > ul {
   padding: 5px;
 }
 @media (max-width: 550px) {
-  #features .desc {
+  #feature .desc {
     width: 100%;
     text-align: center;
     padding: 0;
