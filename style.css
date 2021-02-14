@@ -40,7 +40,7 @@ font-family: 'Lato', sans-serif;
   display: flex;
 }
 header {
-  position:relative;
+  position:fixed;
   top: 0;
   min-height: 15px;
   padding: 0px 20px;
@@ -66,9 +66,8 @@ header {
 }
 .logo > img {
   width: 100%;
-  height:100%;
+  height:100px;
   max-width: 300px;
-  max-height:none;
   display: flex;
   justify-content: center;
   align-items: center;
