@@ -65,7 +65,7 @@ header {
   }
 }
 .logo > img {
-  width: 100%;
+  width: 50%;
   height:100px;
   max-width: 300px;
   display: flex;
